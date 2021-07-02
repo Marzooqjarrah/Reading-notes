@@ -25,6 +25,8 @@ you can add the text between these characters.
 Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page (to make it distinguish).It is important that no two
 elements on the same page have the same value for their id attributes.
 
+![image](https://user-images.githubusercontent.com/85868080/124326952-04f6f880-db90-11eb-8cef-76ab5d7b4236.png)
+
 * Class Attribute:
 to identify several elements as being different from the other elements on the page.
 
