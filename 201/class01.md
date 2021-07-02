@@ -17,7 +17,7 @@ HTML describes the structure of pages, consist from elements called tags.
 - HTML pages are text documents.
 - To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
-----------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * To make a comment in html:
 you can add the text between these characters.
 
@@ -79,7 +79,7 @@ Figures (<figure>):
 Sectioning Elements (<div>):
   to group together related elements.
 
------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
  - When you decide to create your website?
     first of all, you should know who your visitors are, you need to consider why they are coming. While some people will simply chance across your
     website, most will visit for a specific reason.
@@ -95,7 +95,7 @@ WireFrames:
 - Most web users do not read entire pages. Rather, they skim to find information.You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
 - Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.
 
-***********************************************************
+************************************************************************************************************************************************************************************************************************
 
 {JAVASCRIPT}
 
