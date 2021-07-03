@@ -7,7 +7,7 @@ Code 102 Reading Notes
 The read | link
 ------------ | -------------
 Grothmindest| [Grothmindest](Growthmindset)
-Learning Markdown|[read01](read1)
+read01 |[Learning Markdown](read1)
 read02 |[read02](read2)
 read03|[read03](read3)
 read04|[read04](read4)
