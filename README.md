@@ -4,7 +4,7 @@ Table of content
 
 Code 102 Reading Notes
 
-The read | link
+Assignment | link
 ------------ | -------------
 Grothmindest| [Grothmindest](Growthmindset)
 read01 |[Learning Markdown](read1)
@@ -14,3 +14,8 @@ read04|[Dynamic web pages with JavaScript](read4)
 read05|[Operators and Loops](read5)
 read06|[Design web pages with CSS](read6)
 read07|[Programming with JavaScript](read7)
+
+
+Code 102 Reading Notes
+Assignment | link
+read01 |[Introductory HTML and JavaScript](read1)
