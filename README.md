@@ -20,4 +20,5 @@ Code 102 Reading Notes
 
 
 Assignment | link
+------------ | -------------
 read01|[Introductory HTML and JavaScript](read1)
