@@ -17,5 +17,7 @@ read07|[Programming with JavaScript](read7)
 
 
 Code 102 Reading Notes
+
+
 Assignment | link
-read01 |[Introductory HTML and JavaScript](read1)
+read01|[Introductory HTML and JavaScript](read1)
