@@ -22,3 +22,4 @@ Code 102 Reading Notes
 Assignment | link
 ------------ | -------------
 read01|[Introductory HTML and JavaScript](https://marzooqjarrah.github.io/Reading-notes/201/class01)
+read02|[HTMLtext, Introduction, and basic Javascript instructions](https://marzooqjarrah.github.io/Reading-notes/201/class02)
