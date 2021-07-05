@@ -23,4 +23,4 @@ Assignment | link
 ------------ | -------------
 read01|[Introductory HTML and JavaScript](https://marzooqjarrah.github.io/Reading-notes/201/class01)
 read02|[HTMLtext, Introduction, and basic Javascript instructions](https://marzooqjarrah.github.io/Reading-notes/201/class02)
-read03|[HTML Lists, CSS Boxes, JS Control Flow](hhttps://marzooqjarrah.github.io/Reading-notes/201/class03)
+read03|[HTML Lists, CSS Boxes, JS Control Flow](https://marzooqjarrah.github.io/Reading-notes/201/class03)
