@@ -61,7 +61,7 @@ Often functions are used to ensure that the variable names do not conflict with 
 
 VARIABLE SCOPE:
 The location where you declare a variable will affect where it can be used within your code.
-If you declare it within a function, it can only be used within that function. This is known as the variable's scope.
+If you declare it within a function, it can only be used within that function. This is known as the variable's cope.
 
 
 
