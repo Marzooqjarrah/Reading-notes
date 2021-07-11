@@ -27,4 +27,4 @@ read03|[HTML Lists, CSS Boxes, JS Control Flow](https://marzooqjarrah.github.io/
 read04|[HTML Links, CSS Layout, JS Functions](https://marzooqjarrah.github.io/Reading-notes/201/class04)
 read05|[ HTML Images; CSS Color & Text](https://marzooqjarrah.github.io/Reading-notes/201/class05)
 read06|[ JS Object Literals; The DOM](https://marzooqjarrah.github.io/Reading-notes/201/class06)
-
+read07|[ HTML Tables; JS Constructor Functions](https://marzooqjarrah.github.io/Reading-notes/201/class07)
