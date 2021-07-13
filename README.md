@@ -29,3 +29,4 @@ read05|[ HTML Images; CSS Color & Text](https://marzooqjarrah.github.io/Reading-
 read06|[ JS Object Literals; The DOM](https://marzooqjarrah.github.io/Reading-notes/201/class06)
 read07|[ HTML Tables; JS Constructor Functions](https://marzooqjarrah.github.io/Reading-notes/201/class07)
 read08|[ More CSS Layout](https://marzooqjarrah.github.io/Reading-notes/201/class08)
+read09|[  Forms and Events](https://marzooqjarrah.github.io/Reading-notes/201/class09)
