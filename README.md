@@ -30,3 +30,4 @@ read06|[ JS Object Literals; The DOM](https://marzooqjarrah.github.io/Reading-no
 read07|[ HTML Tables; JS Constructor Functions](https://marzooqjarrah.github.io/Reading-notes/201/class07)
 read08|[ More CSS Layout](https://marzooqjarrah.github.io/Reading-notes/201/class08)
 read09|[  Forms and Events](https://marzooqjarrah.github.io/Reading-notes/201/class09)
+read10|[ JS Debugging](https://marzooqjarrah.github.io/Reading-notes/201/class10)
